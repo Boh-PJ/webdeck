@@ -33,3 +33,9 @@ And you can use:
 ```shell
 yarn deploy
 ```
+
+---
+
+This repository licensed under the [BSD 3-Clause License](https://github.com/Boh-PJ/webdeck/blob/main/LICENSE).
+
+Copyright &copy; 2022 Omae Tadashi, Hagimoto Shinpei and other Boh-PJ members.
