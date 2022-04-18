@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/webdeck/static/js/main.2b1d3f41.js",
+    "static/js/377.6f3ad29d.chunk.js": "/webdeck/static/js/377.6f3ad29d.chunk.js",
+    "static/media/logo.svg": "/webdeck/static/media/logo.034ef726eb08f413c8e9ff1b0abe7414.svg",
+    "index.html": "/webdeck/index.html",
+    "main.2b1d3f41.js.map": "/webdeck/static/js/main.2b1d3f41.js.map",
+    "377.6f3ad29d.chunk.js.map": "/webdeck/static/js/377.6f3ad29d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2b1d3f41.js"
+  ]
+}
