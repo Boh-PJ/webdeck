@@ -1,0 +1,14 @@
+{
+  "root": true,
+  "plugins": ["@typescript-eslint"],
+  "extends": [
+    "eslint:recommended",
+    "react-app",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended",
+    "prettier"
+  ],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
